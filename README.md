@@ -2,34 +2,31 @@
 
 # Hey, I'm Kznull 👋
 
-**Ingeniería de Sistemas y Computación · Aprendiendo a construir con IA**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhon-alexander-parra-olarte-0a6a86409/)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+**Systems & Computing Engineering student · Learning to build with AI**
 
 </div>
 
 ---
 
-## Sobre mí
+## About me
 
-Soy estudiante de Ingeniería de Sistemas y Computación con el objetivo de convertirme en **AI Engineer**. Me apasiona entender cómo funcionan los modelos de lenguaje y cómo aplicarlos para resolver problemas reales.
+I'm a Systems & Computing Engineering student focused on becoming an **AI Engineer**. I'm passionate about understanding how language models work and how to apply them to solve real problems.
 
-Estoy en esa etapa donde cada día aprendo algo nuevo, y creo que eso es lo más emocionante de estar empezando en IA.
+I'm at that stage where every day I learn something new — and I think that's the most exciting part of getting started in AI.
 
 ```python
 kznull = {
-    "estado":     "aprendiendo / construyendo",
-    "enfoque":    "AI Engineering",
-    "lenguaje":   ["Python"],
-    "siguiente":  ["LLMs", "LangChain", "APIs de IA", "RAG"],
-    "mentalidad": "build → break → learn → repeat"
+    "status":    "learning / building",
+    "focus":     "AI Engineering",
+    "languages": ["Python"],
+    "next":      ["LLMs", "LangChain", "AI APIs", "RAG"],
+    "mindset":   "build → break → learn → repeat"
 }
 ```
 
 ---
 
-## Tecnologías actuales
+## Current stack
 
 <div align="center">
 
@@ -41,36 +38,36 @@ kznull = {
 
 ---
 
-## Lo que estoy aprendiendo ahora 📚
+## What I'm learning right now 📚
 
-- 🤖 Fundamentos de **Machine Learning** y cómo funcionan los LLMs
-- 🐍 **Python** para IA — librerías, buenas prácticas, scripting
-- 🔗 **LangChain** y construcción de aplicaciones con modelos de lenguaje
-- 🧠 Prompting, embeddings y búsqueda semántica (RAG)
-- ☁️ Cómo desplegar modelos y conectarlos a servicios reales
-
----
-
-## Próximos proyectos 🚧
-
-> Estoy construyendo mi primer proyecto de IA. Pronto habrá algo aquí.
-
-Tengo pensado trabajar en aplicaciones que combinen **LLMs + Python** para resolver problemas concretos. Si tienes ideas o quieres colaborar, escríbeme.
+- 🤖 ML fundamentals and how LLMs actually work under the hood
+- 🐍 **Python** for AI — libraries, best practices, scripting
+- 🔗 **LangChain** and building apps powered by language models
+- 🧠 Prompting, embeddings, and semantic search (RAG)
+- ☁️ Deploying models and connecting them to real services
 
 ---
 
-## Conectemos
+## Upcoming projects 🚧
+
+> Building my first AI project. Something will be here soon.
+
+Planning to work on apps that combine **LLMs + Python** to solve concrete problems. If you have ideas or want to collaborate, reach out.
+
+---
+
+## Let's connect
 
 <div align="center">
 
-Si estás en el mundo de la IA, estudias sistemas, o simplemente quieres hablar de tecnología — me encuentras por LinkedIn.
+If you're into AI, studying systems engineering, or just want to talk tech — find me on LinkedIn.
 
-[![LinkedIn](https://img.shields.io/badge/Hablemos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhon-alexander-parra-olarte-0a6a86409/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhon-alexander-parra-olarte-0a6a86409/)
 
 </div>
 
 ---
 
 <div align="center">
-<sub>🇨🇴 Colombia · Construyendo en público · Un commit a la vez</sub>
+<sub>🇨🇴 Colombia · Building in public · One commit at a time</sub>
 </div>
